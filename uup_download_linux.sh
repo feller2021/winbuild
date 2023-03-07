@@ -1,5 +1,5 @@
 #!/bin/bash
-#Generated on 2023-03-07 06:06:36 GMT
+#Generated on 2021-08-15 17:10:14 GMT
 
 # Proxy configuration
 # If you need to configure a proxy to be able to connect to the internet,
@@ -17,37 +17,42 @@ export all_proxy=""
 
 # End of proxy configuration
 
-for prog in aria2c cabextract wimlib-imagex chntpw; do
-  which $prog &>/dev/null 2>&1 && continue;
-
-  echo "$prog does not seem to be installed"
-  echo "Check the readme.unix.md for details"
-  exit 1
-done
-
-mkiso_present=0
-which genisoimage &>/dev/null && mkiso_present=1
-which mkisofs &>/dev/null && mkiso_present=1
-
-if [ $mkiso_present -eq 0 ]; then
-  echo "genisoimage nor mkisofs does seem to be installed"
-  echo "Check the readme.unix.md for details"
+if ! which aria2c >/dev/null \
+|| ! which cabextract >/dev/null \
+|| ! which wimlib-imagex >/dev/null \
+|| ! which chntpw >/dev/null \
+|| ! which genisoimage >/dev/null \
+&& ! which mkisofs >/dev/null; then
+  echo "One of required applications is not installed."
+  echo "The following applications need to be installed to use this script:"
+  echo " - aria2c"
+  echo " - cabextract"
+  echo " - wimlib-imagex"
+  echo " - chntpw"
+  echo " - genisoimage or mkisofs"
+  echo ""
+  if [ `uname` == "Linux" ]; then
+    # Linux
+    echo "If you use Debian or Ubuntu you can install these using:"
+    echo "sudo apt-get install aria2 cabextract wimtools chntpw genisoimage"
+    echo ""
+    echo "If you use Arch Linux you can install these using:"
+    echo "sudo pacman -S aria2 cabextract wimlib chntpw cdrtools"
+  elif [ `uname` == "Darwin" ]; then
+    # macOS
+    echo "macOS requires Homebrew (https://brew.sh) to install the prerequisite software."
+    echo "If you use Homebrew, you can install these using:"
+    echo "brew tap sidneys/homebrew"
+    echo "brew install aria2 cabextract wimlib cdrtools sidneys/homebrew/chntpw"
+  fi
   exit 1
 fi
 
 destDir="UUPs"
 tempScript="aria2_script.$RANDOM.txt"
 
-echo "Downloading converters..."
-# aria2c --no-conf --log-level=info --log="aria2_download.log" -x16 -s16 -j5 --allow-overwrite=true --auto-file-renaming=false -d"files" -i"files/converter_multi"
-if [ $? != 0 ]; then
-  echo "We have encountered an error while downloading files."
-  exit 1
-fi
-
-echo ""
 echo "Retrieving aria2 script..."
-aria2c --no-conf --log-level=info --log="aria2_download.log" -o"$tempScript" --allow-overwrite=true --auto-file-renaming=false "http://www.uupdump.cn/get.php?id=2c34b461-1255-485f-8845-420f1e8ba2e3&pack=zh-cn&edition=corecountryspecific;professional&aria2=2"
+aria2c --no-conf --log-level=info --log="aria2_download.log" -o"$tempScript" --allow-overwrite=true --auto-file-renaming=false "https://www.uupdump.cn/get.php?id=394ef0a3-02d8-498d-bc30-f77f303f1641&pack=zh-cn&edition=corecountryspecific&aria2=2"
 if [ $? != 0 ]; then
   echo "Failed to retrieve aria2 script"
   exit 1
@@ -71,5 +76,5 @@ fi
 echo ""
 if [ -e ./files/convert.sh ]; then
   chmod +x ./files/convert.sh
-  ./files/convert.sh esd "$destDir" 0
+  ./files/convert.sh wim "$destDir" 0
 fi
