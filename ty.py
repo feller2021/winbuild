@@ -39,7 +39,7 @@ def bulid():
             }
             r = requests.post(url, data=m,
                               headers=headers, timeout=(7,12))
-           time.sleep(6) 
+            time.sleep(6) 
             res=r.text
             # print(res)
             jsonobj = json.loads(res)
