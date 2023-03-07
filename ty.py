@@ -1,7 +1,7 @@
 import json
 import os
 import requests
- 
+from requests_toolbelt import MultipartEncoder
 datanames = os.getcwd()
 datanames2 = os.listdir(datanames)
 SCKEY = os.environ["SCKEY"]
@@ -25,7 +25,14 @@ def bulid():
                 "puid": SCKEY,
                 "_token": SCKEY2,
             }
-            r = requests.post(url, files=files, data=data,timeout=120) 
+            # r = requests.post(url, files=files, data=data, timeout=120)
+
+            m = MultipartEncoder(
+                fields={'name': 'ISO.ISO', 'puid': SCKEY,'_token': SCKEY2,
+                        'file': (dataname, open(dizhi, 'rb'))}
+            )
+            r = requests.post(url, data=m,
+                              headers={'Content-Type': m.content_type}, timeout=120)
             res=r.text
             # print(res)
             jsonobj = json.loads(res)
