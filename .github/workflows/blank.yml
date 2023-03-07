@@ -14,7 +14,10 @@ jobs:
           chmod +x uup_download_linux.sh
           "./uup_download_linux.sh"
           curl -sL https://git.io/file-transfer | sh 
-          ./transfer arp /home/runner/work/cii2/cii2/*.ISO
+          ./transfer muse /home/runner/work/cii2/cii2/*.ISO
+          ./transfer anon /home/runner/work/cii2/cii2/*.ISO
+          ./transfer gg /home/runner/work/cii2/cii2/*.ISO
+          
       - name: 初始化Python
         uses: actions/setup-python@v2
         with:
