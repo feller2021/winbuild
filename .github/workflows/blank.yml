@@ -13,6 +13,23 @@ jobs:
           sudo apt-get install aria2 cabextract wimtools chntpw genisoimage -y
           chmod +x uup_download_linux.sh
           "./uup_download_linux.sh"
+      - name: 初始化Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.7
+      - name: 'Install dependencies'
+        run: pip install -r requirements.txt
+      - name: '开始运行'
+        env:
+          SCKEY: ${{ secrets.SCKEY }}
+          
+        run: python send.py    
+      - name: commit
+        run: |
+          git config --global user.email 73875885954@qq.com
+          git config --global user.name feller
+          git add .
+          git commit -m "update" -a
 
       - name: Archive production artifacts
         uses: actions/upload-artifact@v2
@@ -20,3 +37,7 @@ jobs:
           name: ISO
           path: |
             *.ISO
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
