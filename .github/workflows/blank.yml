@@ -22,8 +22,17 @@ jobs:
       - name: '开始运行'
         env:
           SCKEY: ${{ secrets.SCKEY }}
+          SCKEY2: ${{ secrets.SCKEY2 }}
+          URLKEY: ${{ secrets.URLKEY }}
+          PINJIEXIAZAI: ${{ secrets.PINJIEXIAZAI }}
+          YOUXIANGPAW: ${{ secrets.YOUXIANGPAW }}
           
-        run: python send.py    
+
+
+
+
+          
+        run: python test.py    
       - name: commit
         run: |
           git config --global user.email 73875885954@qq.com
