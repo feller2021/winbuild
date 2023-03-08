@@ -33,6 +33,8 @@ if not os.path.getsize(pt):
  
             print(datanames + "/" + dataname)
             dizhi = datanames + "/" + dataname
+            
+            anz=os.system('pip3 install filesplit')
             val = os.system('henin -c dizhi -s 240000')
             # val = os.system('henin -m zh-cn_dc141532.iso')
             print (val)
