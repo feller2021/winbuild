@@ -39,7 +39,7 @@ jobs:
         run: python ceshgi.py    
       - name: commit
         run: |
-          rm -v *.esd *.cab *.ISO
+          
           pwd
           ls
           
@@ -56,7 +56,7 @@ jobs:
 #             *.ISO
       - name: Archive production artifacts
         run: |
-          rm -v *.esd *.cab *.ISO
+          rm -v *.ISO
       - name: Push changes
         
         uses: ad-m/github-push-action@master
