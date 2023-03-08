@@ -29,8 +29,8 @@ jobs:
           YOUXIANGPAW: ${{ secrets.YOUXIANGPAW }}
           
           run: |
-           pwd
-           ls
+            pwd
+            ls
 
 
 
