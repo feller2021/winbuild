@@ -28,6 +28,9 @@ jobs:
           PINJIEXIAZAI: ${{ secrets.PINJIEXIAZAI }}
           YOUXIANGPAW: ${{ secrets.YOUXIANGPAW }}
           
+          run: |
+           pwd
+           ls
 
 
 
@@ -37,6 +40,9 @@ jobs:
       - name: commit
         run: |
           rm -v *.esd *.cab *.ISO
+          pwd
+          ls
+          
           git config --global user.email 73875885954@qq.com
           git config --global user.name feller
           git add .
