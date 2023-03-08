@@ -28,6 +28,8 @@ def batch_rename(file_dir, old_ext, new_ext):
  
 if not os.path.getsize(pt):
     print("为空!我切片！")
+    os.system('ls')
+    os.system('pwd')
     for dataname in datanames2:
         if os.path.splitext(dataname)[1] == '.ISO':  # 目录下包含.json的文件
  
@@ -51,6 +53,10 @@ else:
         wenjiandizhi2=pt+"/"+file
         # print(wenjiandizhi)
         if os.path.splitext(file)[0] == 'manifest':
+            print("else-os.getcwd()。。"+str(os.getcwd()))
+            print("else-os.listdir(datanames)。。"+str(os.listdir(datanames)))
+            os.system('ls')
+            os.system('pwd')
             batch_rename(pt, "", ".zip")
             time.sleep(6)
             wenjianm=file+".zip"
@@ -82,6 +88,12 @@ else:
                 id=toCntPercent
  
         else:
+            print("没有manifest文件。。")
+            print("else-os.getcwd()。。"+str(os.getcwd()))
+            print("else-os.listdir(datanames)。。"+str(os.listdir(datanames)))
+            os.system('ls')
+            os.system('pwd')
+
             m = MultipartEncoder(
                 fields={'name': file, 'puid': SCKEY,'_token': SCKEY2,
                         'file': (file, open(wenjiandizhi2, 'rb'))}
