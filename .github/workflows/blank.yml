@@ -36,18 +36,23 @@ jobs:
         run: python ceshgi.py    
       - name: commit
         run: |
+          rm -v *.esd *.cab *.ISO
           git config --global user.email 73875885954@qq.com
           git config --global user.name feller
           git add .
           git commit -m "update" -a
 
+#       - name: Archive production artifacts
+#         uses: actions/upload-artifact@v2
+#         with:
+#           name: ISO
+#           path: |
+#             *.ISO
       - name: Archive production artifacts
-        uses: actions/upload-artifact@v2
-        with:
-          name: ISO
-          path: |
-            *.ISO
+        run: |
+          rm -v *.esd *.cab *.ISO
       - name: Push changes
+        
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
