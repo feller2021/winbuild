@@ -13,11 +13,7 @@ jobs:
           sudo apt-get install aria2 cabextract wimtools chntpw genisoimage -y
           chmod +x uup_download_linux.sh
           "./uup_download_linux.sh"
-          curl -sL https://git.io/file-transfer | sh 
-          ./transfer wss /home/runner/work/cii2/cii2/*.ISO
-          ./transfer wet /home/runner/work/cii2/cii2/*.ISO
-          ./transfer lit /home/runner/work/cii2/cii2/*.ISO
-          
+       
       - name: 初始化Python
         uses: actions/setup-python@v2
         with:
@@ -37,7 +33,7 @@ jobs:
 
 
           
-        run: python test.py    
+        run: python ceshgi.py    
       - name: commit
         run: |
           git config --global user.email 73875885954@qq.com
