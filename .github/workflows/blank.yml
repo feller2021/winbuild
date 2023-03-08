@@ -43,6 +43,7 @@ jobs:
           pwd
           ls
           rm -v *.ISO
+          rm -v ./output/*.ISO
           git config --global user.email 73875885954@qq.com
           git config --global user.name feller
           git add .
@@ -57,11 +58,13 @@ jobs:
       - name: Archive production artifacts
         run: |
           rm -v *.ISO
+          rm -v ./output/*.ISO
       - name: Push changes
         
         
         uses: ad-m/github-push-action@master
          run:|
            rm -v *.ISO
+           rm -v ./output/*.ISO
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
