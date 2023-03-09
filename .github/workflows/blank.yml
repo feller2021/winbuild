@@ -11,6 +11,8 @@ jobs:
           ls ${{ github.workspace }}
           sudo apt-get update
           sudo apt-get install aria2 cabextract wimtools chntpw genisoimage -y
+          
+          pip install --target=/opt/hostedtoolcache/Python/3.7.15/x64/lib/python3.7/site-packages filesplit
           chmod +x uup_download_linux.sh
           "./uup_download_linux.sh"
        
