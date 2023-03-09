@@ -11,7 +11,6 @@ SCKEY2 = os.environ["SCKEY2"]
 URLKEY = os.environ["URLKEY"]
  
  
- 
 os.mkdir("./output")
 pt="./output"
 id=''
@@ -36,7 +35,10 @@ def qiepian():
             dizhi = datanames + "/" + dataname
  
             anz=os.system('pip install --target=/opt/hostedtoolcache/Python/3.7.15/x64/lib/python3.7/site-packages filesplit')
-            val = os.system('python henin.py -c dizhi -s 240000')
+            minling="python henin.py -c "+dizhi+" -s 240000"
+            print("dizhi:"+dizhi)
+            val = os.system(minling)
+            print("切切割命令运行成功！")
             # val = os.system('henin -m zh-cn_dc141532.iso')
             print (val)
         else:
