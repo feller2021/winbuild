@@ -65,3 +65,5 @@ def bulid():
         else:
             print("没文件")
     return id
+if __name__ == '__main__':
+    bulid()
