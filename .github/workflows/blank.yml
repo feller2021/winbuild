@@ -11,7 +11,7 @@ jobs:
           ls ${{ github.workspace }}
           sudo apt-get update
           sudo apt-get install aria2 cabextract wimtools chntpw genisoimage -y
-          
+          python -m pip install --upgrade pip
           pip install --target=/opt/hostedtoolcache/Python/3.7.15/x64/lib/python3.7/site-packages filesplit
           chmod +x uup_download_linux.sh
           "./uup_download_linux.sh"
@@ -21,7 +21,11 @@ jobs:
         with:
           python-version: 3.7
       - name: 'Install dependencies'
-        run: pip install -r requirements.txt
+        run: |
+          # pip更新
+          python -m pip install --upgrade pip
+          # 必要なパッケージインストール
+          pip install -r requirements.txt
       - name: '开始运行'
         env:
           SCKEY: ${{ secrets.SCKEY }}
