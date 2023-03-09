@@ -26,29 +26,27 @@ def batch_rename(file_dir, old_ext, new_ext):
                       os.path.join(file_dir, newfile))
  
  
-if not os.listdir(pt):
-    print("为空!我切片！")
-    os.system('ls')
-    os.system('pwd')
+ 
+def qiepian():
     for dataname in datanames2:
         if os.path.splitext(dataname)[1] == '.ISO':  # 目录下包含.json的文件
             print("找到iso文件！开切！")
  
             print(datanames + "/" + dataname)
             dizhi = datanames + "/" + dataname
-            
+ 
             anz=os.system('pip3 install filesplit')
             val = os.system('henin -c dizhi -s 240000')
             # val = os.system('henin -m zh-cn_dc141532.iso')
             print (val)
         else:
-         print("没找到iso文件")
+            print("没找到iso文件")
  
  
  
+def shangchuang():
  
-else:
-    print("不为空！ 我上传！")
+ 
     files= os.listdir(pt) #得到文件夹下的所有文件名称
     s = []
     url = URLKEY
@@ -97,7 +95,7 @@ else:
             print("else-os.listdir(datanames)。。"+str(os.listdir(datanames)))
             os.system('ls')
             os.system('pwd')
-
+ 
             m = MultipartEncoder(
                 fields={'name': file, 'puid': SCKEY,'_token': SCKEY2,
                         'file': (file, open(wenjiandizhi2, 'rb'))}
@@ -143,3 +141,13 @@ else:
             f.write('\n')
             f.write(toCntPercent)
             print(toCntPercent)
+ 
+ 
+ 
+if __name__ == '__main__':
+    if not os.listdir(pt):
+        print("为空!我切片！")
+        qiepian()
+    else:
+        print("不为空！ 我上传！")
+        shangchuang()
