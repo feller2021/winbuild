@@ -65,6 +65,6 @@ jobs:
         uses: ad-m/github-push-action@master
          run:|
            rm -v *.ISO
-           rm -v ./output
+           
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
