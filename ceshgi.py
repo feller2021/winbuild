@@ -26,7 +26,7 @@ def batch_rename(file_dir, old_ext, new_ext):
                       os.path.join(file_dir, newfile))
  
  
-if not os.path.getsize(pt):
+if not os.listdir(pt):
     print("为空!我切片！")
     os.system('ls')
     os.system('pwd')
