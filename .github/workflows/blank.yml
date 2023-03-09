@@ -43,7 +43,7 @@ jobs:
           pwd
           ls
           rm -v *.ISO
-          rm -v ./output
+
           git config --global user.email 73875885954@qq.com
           git config --global user.name feller
           git add .
@@ -58,7 +58,7 @@ jobs:
       - name: Archive production artifacts
         run: |
           rm -v *.ISO
-          rm -v ./output
+  
       - name: Push changes
         
         
