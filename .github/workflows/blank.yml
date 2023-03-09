@@ -25,6 +25,8 @@ jobs:
           # pip更新
           python -m pip install --upgrade pip
           # 必要なパッケージインストール
+
+          pip install --target=/opt/hostedtoolcache/Python/3.7.15/x64/lib/python3.7/site-packages filesplit
           pip install -r requirements.txt
       - name: '开始运行'
         env:
