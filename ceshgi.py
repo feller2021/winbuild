@@ -151,3 +151,5 @@ if __name__ == '__main__':
     else:
         print("不为空！ 我上传！")
         shangchuang()
+    time.sleep(60)
+    shangchuang()
