@@ -20,7 +20,7 @@ URLKEY = os.environ["URLKEY"]
 def bulid():
     id=''
     for dataname in datanames2:
-        wenjiandizhi2=pt+"/"+dataname
+        wenjiandizhi2=dataname
         print("遍历文件夹")
         if os.path.splitext(dataname)[1] == '.ISO':  # 目录下包含.json的文件
             print("没有manifest文件。。")
