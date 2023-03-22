@@ -45,7 +45,7 @@ jobs:
 
           
 #         run: python ceshgi.py
-        run: python ty2.py 
+        run: python ceshgi.py 
       - name: commit
         run: |
           
