@@ -140,7 +140,7 @@ try:
  
         wenjianminqianwu=start(i)
  
-    wenjianminqianwu=wenjianminqianwu[0:8]
+    wenjianminqianwu=wenjianminqianwu[0:13]
  
  
  
