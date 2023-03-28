@@ -159,6 +159,14 @@ try:
 except:
  
     print("下载异常")
- 
+
+  
+  
+print("升级pip...")
+os.system('python -m pip install --upgrade pip -i https://pypi.tuna.tsinghua.edu.cn/simple')
+
+print("安装filesplit中...")
+os.system('pip install filesplit -i https://pypi.tuna.tsing
+          
 print("对文件进行合并中...")
 val = os.system('henin -m '+wenjianminqianwu+filetime+'_zh-cn.iso')
