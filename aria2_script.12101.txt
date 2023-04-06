@@ -1,0 +1,328 @@
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/efbf7f74-c204-416a-8a52-0c4f0865db28?P1=1680768732&P2=404&P3=2&P4=krYoxpnbJ9ZdfQ2ANwmIP43fQAg1HcbeI4acGifFAEo5jSoJiB1CbhgNuUptHXlCEH6iGc4xoTiIKJ134NsUAg%3d%3d
+  out=Microsoft-Windows-Not-Supported-On-LTSB-WOW64-Package.ESD
+  checksum=sha-1=95a9b6ecd192c545bdb03b8e1d967175c72c6b10
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/bc5a909c-17a2-4d6f-9aa3-7879f13fb634?P1=1680768732&P2=404&P3=2&P4=T45glJuAV6WMYrd0LKezaaqXLXiUE4dD%2fFTA8nkuxOTU%2by44robrAnl8ISPd3F0XC9Lj7DGNtgf0%2fgl5vGhVgg%3d%3d
+  out=Microsoft-Windows-Foundation-Package.ESD
+  checksum=sha-1=f8defcb39c4621603da7362832bb86dad34743d1
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/32864bb9-3905-4084-9614-121c0d8a3e7a?P1=1680768731&P2=404&P3=2&P4=CnMVx5feWUzXZmGwxU9EqdtuOfaW567Cr3D20ThwEG9ED%2fFjy%2flQpuajkWjcEJV4t5tT9E0pHhRyk%2bOhs72YAw%3d%3d
+  out=cabs_Microsoft-Windows-Wallpaper-Content-Extended-FoD-Package-amd64.cab
+  checksum=sha-1=9558d6511671b4cb1daaa9623866b067c8cc4177
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/95a22740-5f74-4453-b21c-99f0b14691e0?P1=1680768732&P2=404&P3=2&P4=GPw1EqnimzMCVLQrZgQNlovk840npjhTxeqAXul%2fcKbBGruErTqDKMyOR%2fLqQ%2b67oGsSxGCyhBhZ%2fvrUp6cujg%3d%3d
+  out=cabs_Microsoft-Windows-TFTP-Client-FOD-Package-amd64.cab
+  checksum=sha-1=72cc44da4c44e99b2cef5c4af72a4b89e9280a38
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/8657a0f2-1f06-47eb-85ef-32ee6d92ba01?P1=1680768732&P2=404&P3=2&P4=LOIB88E9iYgxG2P3djXfkX7uIBiWj4MuvFKmlvsn8RUw12O8O%2fC%2bnKIKXVBGxbRHIxl4m66P8KC1w%2b8usrL6hg%3d%3d
+  out=cabs_Microsoft-Windows-Ethernet-Client-Vmware-Vmxnet3-FOD-Package-amd64.cab
+  checksum=sha-1=74a3eb04870c3b09b216e3641c0d0086d6b1103d
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f2fc64b9-6ff0-4315-9ee9-6f6ceddc1d8e?P1=1680768732&P2=404&P3=2&P4=CfkMBohyGQ6dCT5cri8tBLY8lLODs36y8rXVUbxOP%2bCLQNJpKn%2fpXmC627NSa1Z%2fc9BiRc4SapwYZ%2bsb5j5SNw%3d%3d
+  out=cabs_Microsoft-Windows-Telnet-Client-FOD-Package-amd64.cab
+  checksum=sha-1=989f3177572076a1d55790df1ac2f900ff493ab4
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/be539a51-a762-4579-8510-7d2afa16e9b2?P1=1680768732&P2=404&P3=2&P4=Sk8C0xnarCOVPagpEARC7TGJzsmhtYihRmE4pF5OzTQ5ogVAlgZN%2fNc5WwMMVJbxC4fu8XQQeRTyx46K17kvtg%3d%3d
+  out=cabs_Microsoft-Windows-WinOcr-FOD-Package-wow64.cab
+  checksum=sha-1=5236ab0c251ea133c94b9e10a46f69bf872f8df4
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/dc25e668-6b96-43bf-878a-f117731823a7?P1=1680768732&P2=404&P3=2&P4=k2%2fP8kSiDdjSzuEPpkPhAs8HODqWBDAtwroNqStxdDLugke%2bQ8wDwqYb4WIxuWjeXiEPmSID12R6er2%2bP4ew4g%3d%3d
+  out=cabs_Microsoft-Windows-StepsRecorder-Package-wow64.cab
+  checksum=sha-1=2cd6b13788e6dcd099a2a1bc289018956a8cd857
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/66e7aacb-1594-4e5a-a0c1-5d50b4948b1c?P1=1680768732&P2=404&P3=2&P4=WJCkDHAkaQxY8nAKqsrZRlhr8FnKyEZU8jXycDTT2524UGS9fnya1%2bhUusUW%2blnHZpiLzZnB5PrI%2bi78OaYc1w%3d%3d
+  out=cabs_Microsoft-Windows-PowerShell-ISE-FOD-Package-wow64.cab
+  checksum=sha-1=21a6990d3640490ed701d7018f9734d0da2414ca
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/26bfd1ae-a2e2-4359-88fc-5ad77bc7cd32?P1=1680768731&P2=404&P3=2&P4=Q1GcJsb5d7Z8d%2fMScZZpzxTdryAWAIKa%2fkoPzk%2fWenHLBigONaAn7G3oiSd915aT0bqcLRLb4zqQHtnkWZqxxQ%3d%3d
+  out=cabs_Microsoft-Windows-WinOcr-FOD-Package-amd64.cab
+  checksum=sha-1=dea7a94d670b4b5a5d7e123cc6713b49126dbbca
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/53cfbe5b-c76e-43d4-9183-31b7ec5e9f4f?P1=1680768731&P2=404&P3=2&P4=QVxsPg%2be5iqJhtGO5bpl%2fz2ZNdZ4t3%2b%2feWC9CGamk%2fZXMzllfFP66dVRDJDT1oG6hyDAwR8vUDWIb3fV2NFDKw%3d%3d
+  out=cabs_Microsoft-Windows-StepsRecorder-Package-amd64.cab
+  checksum=sha-1=9de4a4fb48fb106f4842e65803489af09b99b1de
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/71c779b5-8f65-47aa-a102-9f3858f9994b?P1=1680768732&P2=404&P3=2&P4=bpSG3YAX%2fLYoUvKhzIxO93AzTBkgZE9CPi9L%2bCdcjNRMl496m%2fJOO3ohDhQWqWFQDh4O%2f3IKU1Tl4KRyuW2ngw%3d%3d
+  out=cabs_Microsoft-Windows-Notepad-System-FoD-Package-wow64.cab
+  checksum=sha-1=67f77018537a7cee46fce456b01ad81282cf22b8
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/e8e59508-f138-4008-87d2-7900cc98ad5b?P1=1680768732&P2=404&P3=2&P4=EFfTzloXa0wifrdo3i499I%2bC3eM44ClU0zYorI525noteYd37s5wc3qUIJth1gpfH0EcqInV84fnheyAaeAmcA%3d%3d
+  out=cabs_Microsoft-Windows-Notepad-System-FoD-Package-amd64.cab
+  checksum=sha-1=4ad5fbe432939ace1aeeb90a3cf275a40226a356
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2745de9d-9d24-49f5-a657-98fda18abe6f?P1=1680768731&P2=404&P3=2&P4=cAw3CyxzbtPf5M6dU7q0bg4KcB6ZJ5yVQa2bOvs025ud6a7qB%2bteBBP4G8l98%2fnCI0rA8G2VALDgCo1W55QEFQ%3d%3d
+  out=cabs_Microsoft-Windows-Ethernet-Client-Intel-E2f68-FOD-Package-amd64.cab
+  checksum=sha-1=8c4799d5da4406eb29bc711e2f6716e7d56635b1
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/e24717e4-ec50-4e3e-b259-929b8c99576f?P1=1680768732&P2=404&P3=2&P4=EpjOZC4H%2fiDRg1Gtl0btVl%2fkwmegL2ysO1kDr5yiL9j5Y4UgGQPDg%2fpB2FYvBX9ode3pPK%2f6TWU874FDyeUjHg%3d%3d
+  out=cabs_Microsoft-Windows-Ethernet-Client-Realtek-Rtcx21x64-FOD-Package-amd64.cab
+  checksum=sha-1=2b9ce7af53f5ea9dc27437f62f306e44fefbe88e
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/965f1681-cfab-4129-8bab-a76c2af40ae7?P1=1680768732&P2=404&P3=2&P4=T86ahM14LcPlcoGmIFTcs0ckRMzGIodryBJR2lFw%2byJxsr1kDqy9wrCWwPeD8a%2fNzlheEGDS2fenOLNyPOhfcQ%3d%3d
+  out=cabs_Microsoft-Windows-VBSCRIPT-FoD-Package-wow64.cab
+  checksum=sha-1=915f5ef3c353c52d1b1371b88c7a1bc84587b459
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/0d78e996-212c-43ca-9c22-6e564b72cc49?P1=1680768731&P2=404&P3=2&P4=nbUo7YbEzLznierUoZiDKWt%2basFDdHRV%2foJSaANk1qEDbsAtUJmLpSc%2bAlMQYTOyrSiBQlYNYVHxD2PdV%2f9zBA%3d%3d
+  out=Microsoft-Windows-EditionSpecific-Professional-WOW64-Package.ESD
+  checksum=sha-1=6eb2bc8a68be062aaa4a48d722edbcd3bb7a1cde
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/e03d296a-4557-4be4-9a42-22069f448c68?P1=1680768732&P2=404&P3=2&P4=N4TbVTdu8C6rVqxIBkuehvFlR9eXke8kgF3tBp462yCj4Nbi%2bsSvyFBV1AIYyzW%2bvYRhDRJlNu5KLNUB2EnMkg%3d%3d
+  out=cabs_Microsoft-Windows-VBSCRIPT-FoD-Package-amd64.cab
+  checksum=sha-1=ee3b246de21061ca03e6c44c6bfa6aaabbd2dd0b
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f475985a-c98a-4002-b483-773e46fdfd54?P1=1680768732&P2=404&P3=2&P4=P3crl2%2fyUGAP1GAZUkgrvvwoM69ImEsvm9SnndNQqCjyzGTP8Ouavm5uneK4cGaHMW2UtaRNxRAQmUanTTFT8Q%3d%3d
+  out=cabs_Microsoft-Windows-Ethernet-Client-Intel-E1i68x64-FOD-Package-amd64.cab
+  checksum=sha-1=a8259f6e3a119ae2b7408390271d12dec924b526
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/fc9fb39c-3bcb-45fa-80e1-ac669d70ad9c?P1=1680768732&P2=404&P3=2&P4=LZlfeA9ND6cY336ouUptZHSNbnwd%2bLPd%2bYIUYuAQC4N327T7WfYiFziU0C1kPB8BDBn57lk2qrcZfIM6jR2Ljw%3d%3d
+  out=cabs_Microsoft-Windows-InternetExplorer-Optional-Package-amd64.cab
+  checksum=sha-1=c69bf6018d44140c4674d09c20301110084dc5b3
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f0bad73c-1721-4161-ad6a-b30c4c392df2?P1=1680768732&P2=404&P3=2&P4=JhRnGVAlSxh%2bVHRBY8ey7UMl0m%2bNtkg9pzOr6ryiQ5GDtP4U1i2NtrGjT3x0oM2sIdu8BYGhnw7NDA29IzdBnw%3d%3d
+  out=cabs_Microsoft-Windows-WMIC-FoD-Package-wow64.cab
+  checksum=sha-1=d50736de2534af6a8d1cd758cc99b635243f1dba
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d9f305eb-50c7-493c-894f-f94ebdc29df7?P1=1680768732&P2=404&P3=2&P4=e8VORza7bgDq4Lkjda3Pmfd731m4ch5QalxOnwCb9gW8JeLqvOzytvG%2fRLkBgwxPeC0%2fXx%2fN0DxsqdyiS7pCmg%3d%3d
+  out=cabs_Microsoft-Windows-WMIC-FoD-Package-amd64.cab
+  checksum=sha-1=66912b96e38b1f8e5b8bcc4345625b1f77d25303
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/0680cbd3-310d-40ca-a762-2618bbbfcb48?P1=1680768731&P2=404&P3=2&P4=eyyguGgjzDm%2f3D823pAnZgCoTTTI%2byJkC4gOamJIkbuyNzSZS0Z8r2tDka82ocOqMVn6qtkPyV5fv4wpxux1%2fQ%3d%3d
+  out=cabs_Microsoft-Windows-Printing-PMCPPC-FoD-Package-amd64.cab
+  checksum=sha-1=51672415bb014efc148e9a81031a48365746b460
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/42da3ac0-1ff6-48a7-a09e-b367790f164a?P1=1680768731&P2=404&P3=2&P4=Zk%2b%2b3scOrssKQxEdSo%2bQgnZ1wxlAY2aByULlpTGlm5L6tLa42DubHzaDgFQagSbm0wM%2bhc3WhRnRpm4JmH8OZA%3d%3d
+  out=cabs_Microsoft-Windows-Wifi-Client-Realtek-Rtl8192se-FOD-Package-amd64.cab
+  checksum=sha-1=d5dc84e17a3abefe7676587fb870f3edc3ef9010
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f79f61d9-46ce-4ddc-8011-a1593d9bfdbe?P1=1680768732&P2=404&P3=2&P4=kisLp5H15WSb970GoaHH%2b5gDuSMmEr%2fTBSfSDTh6zwYknSjs5ptexHbh77Fk3hou4lktNBmYldZbR2K%2bJG1fLw%3d%3d
+  out=cabs_Microsoft-OneCore-DirectX-Database-FOD-Package-amd64.cab
+  checksum=sha-1=6bf23094aeac69046747ec1b0dbc072b1ac4f24c
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/32220de0-b3c6-4add-8369-f9455382d3df?P1=1680768731&P2=404&P3=2&P4=DckBPBJ7LD67Hum%2b9bWFgC2Mijl83nNEsL1C2IMKTSosV%2fDGW879WdU%2b3gcALsLPS5rVTMdsYxHhoA4ZujVylg%3d%3d
+  out=cabs_Microsoft-Windows-FoDMetadata-Package.cab
+  checksum=sha-1=247a588e7862fb54aac52a01601b771303beb54e
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4efd3f35-bb85-4e94-b982-b302a76837cd?P1=1680768731&P2=404&P3=2&P4=SiKgOFmiRv0MiYOS0rtEcl8mCvi5TpDM6qqkvLEBGNGAG9eoretoJK3KmD9QdhaF6oDNSv1%2fnjq8qdS31819tw%3d%3d
+  out=cabs_Microsoft-Windows-Wifi-Client-Marvel-Mrvlpcie8897-FOD-Package-amd64.cab
+  checksum=sha-1=9aced79e64a2ba9e48f043f054de87baacc9b317
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/04e22168-2aef-4ddb-8126-efedc7f81e28?P1=1680768731&P2=404&P3=2&P4=fwtnqPS%2fK%2bgEz36%2fTPse1mAxZL2htlTv5LcftAbQn2vk8Y1AZGGeoqbD6sbdPT1OnL4ri%2fBvJJxkPkASf9jPRA%3d%3d
+  out=cabs_Microsoft-Windows-WordPad-FoD-Package-wow64.cab
+  checksum=sha-1=bdbe373076b413832c7152c3b594bfa554e37b6e
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/9fe46e18-7116-4c7d-9f8f-653b46e38c53?P1=1680768732&P2=404&P3=2&P4=LJtKSem%2fv4zIs1d%2fpzZaLUpxkEIk0c94uV29Bz2p%2fCxrGW2HVaiS94UoixQZ8EalvJ1uwgXK5vVoxj14TV563Q%3d%3d
+  out=cabs_Microsoft-Windows-WordPad-FoD-Package-amd64.cab
+  checksum=sha-1=928ec3f94077bd13070920562e9423e8d488d50f
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c92d3d9d-52ab-4f62-8cea-12ddaffe06b0?P1=1680768732&P2=404&P3=2&P4=Bqh5p3TB6voLdkQdS2GUqcMlsZ9k97ktTe01CWr4iMs%2b7EmuqA5IoqQkmVEYd54mgwyuXm7SOeD6uC%2fgHpdKuA%3d%3d
+  out=cabs_Microsoft-Windows-Wifi-Client-Qualcomm-Athw8x-FOD-Package-amd64.cab
+  checksum=sha-1=febb57b4628c4459cd35655a3657be887935863b
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/8a3aea1d-dd36-42d6-bbd9-228688a053d1?P1=1680768732&P2=404&P3=2&P4=Cvbok9tgEWS01kA0BKcYQUl4FUs0leO8CqthDMCcGkEn0gQuej7In%2b8qRJk57E0rm9G778M%2fiMj1itdVvbns%2bg%3d%3d
+  out=cabs_Microsoft-Windows-Wifi-Client-Qualcomm-Athwnx-FOD-Package-amd64.cab
+  checksum=sha-1=a7f60e950c48f0b6cdcb3e0892d559bba7eb8955
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/24ddfb57-0a11-4c10-b5f6-896336931dad?P1=1680768731&P2=404&P3=2&P4=PqVuke8Z57POzUogN4AQAkwABfFPqqAfLBOOMqww%2btioPfyJj4mMPoGL9q5O9h0x7V8goOLWQ7bZ7m8LYcsLDg%3d%3d
+  out=cabs_Microsoft-Windows-Wifi-Client-Broadcom-Bcmpciedhd63-FOD-Package-amd64.cab
+  checksum=sha-1=8fd91f91b2b52a26c176c7b28a513028060726e3
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/5cb43579-3c4e-4fbd-8c2c-c223b6549c87?P1=1680768752&P2=404&P3=2&P4=da%2bsbHjA5MmXlpiMncd5DfqirMvNP9zCYYsr50V45qULiLrvayQ7Y84nQsre%2fHaNUyrqaxIsUO86Do%2bbSyVJ6A%3d%3d
+  out=cabs_Microsoft-Windows-PowerShell-ISE-FOD-Package-amd64.cab
+  checksum=sha-1=6d447a465b6c4a6a40097c956e127237fcea2abd
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a9c40d18-ce2f-4287-9a1e-b3ffbc6f7244?P1=1680768752&P2=404&P3=2&P4=YMhjMXQp2q0TvLEpkaCBppvlV%2f6YzqAqIggGSkQzMo3tUxToi4QsIENx2QvMlluV8pBTco183k3xXZugm6H%2fFQ%3d%3d
+  out=cabs_Microsoft-Windows-Wifi-Client-Ralink-Netr28x-FOD-Package-amd64.cab
+  checksum=sha-1=7b02e5bac83332fc36e3ccb28d0009f5922ae531
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f8636612-2ec9-4886-81ea-e0e86f8d8d6c?P1=1680768752&P2=404&P3=2&P4=ZSVqsCzUpBWxv%2bSZpWb1YEr08BqGMIvxM1ALR6lJhQK9buHCgHMfZyeBSTmzPVeHxy3fUdobsiAF4TjJqet%2fHQ%3d%3d
+  out=cabs_Microsoft-Windows-Wifi-Client-Broadcom-Bcmwl63al-FOD-Package-amd64.cab
+  checksum=sha-1=19a892a0066bdb2daf0bb49017e8ade32a8d2a11
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/bd131fcb-4d4d-48f5-8244-370d490266ca?P1=1680768752&P2=404&P3=2&P4=kXtwFjkQT3qNXjGuE6R30hT2MIyeN8ZfmJbmzFw7qy85D8c0vO4Nwjy9riSWWbQTirNm7%2bK1dLBjlE%2b1mQ2Htw%3d%3d
+  out=cabs_Microsoft-Windows-Wifi-Client-Realtek-Rtwlane13-FOD-Package-amd64.cab
+  checksum=sha-1=30ef010d783f389c14a4b33d2e8d3059c268225b
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/fe2dfadb-7a86-4801-aa24-81838a651e2c?P1=1680768752&P2=404&P3=2&P4=HCugiDjVU8BvZy46XOLgHX5Ltt6kkPxtqYcyxetYngLppZas2aKM3BIfIbqlmyEkvgvvwjihi%2bzISDdveC4Wmw%3d%3d
+  out=Microsoft-Windows-Required-ShellExperiences-Desktop-WOW64-Package.ESD
+  checksum=sha-1=2b6b4cfff4590ff179bf47a1cb783b700d1cbc7e
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/9d13d0da-041a-4f77-8f1f-81a42119fb10?P1=1680768752&P2=404&P3=2&P4=HuU%2fB%2bw4tCW09u%2fZxX40xYwNIIz6eo%2b0MSVgM%2bz2p33i14svCFEFcn2WAvZ1XihaNKAGnXD9TNW9tOVVc0i0PQ%3d%3d
+  out=cabs_Microsoft-Windows-Wifi-Client-Qualcomm-Qcamain10x64-FOD-Package-amd64.cab
+  checksum=sha-1=3b83c2deeebdec7afe1c2259bed4ba985ab0b792
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/5c9788aa-6223-425a-afd4-522e075812e7?P1=1680768752&P2=404&P3=2&P4=duPbBMxyCw3dVeW7U0YnkLljFME6nci9fU0D2xHYWjZTmY%2f%2baNvj%2bwM18v0rg2NHDcRc%2fz2KCTlIpQtOp00kCg%3d%3d
+  out=cabs_OpenSSH-Client-Package-amd64.cab
+  checksum=sha-1=06db2717db44c2b75f7fe337e572ab9a10af0083
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/dac7473e-48d0-4a2d-b638-8224d9f7b754?P1=1680768752&P2=404&P3=2&P4=XcgKGYi8u9bsbPrI3V0VLSGrOTc7A%2fwRnNRcoeqPwnD1HuX58INUl%2bBGIoLcVAirzfncQTQ8O%2f8Kk64E8CRtvg%3d%3d
+  out=cabs_Microsoft-Windows-Wifi-Client-Intel-Netwbw02-FOD-Package-amd64.cab
+  checksum=sha-1=9cc55b63a951b02936e8ef4cee03d4ab9dfbe8be
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/9b3adaf2-ade2-4ee7-a040-ed172c469381?P1=1680768752&P2=404&P3=2&P4=aaSa4%2fyyTkAw01IDLQ%2fhrjAkHqUEBM%2fCK5O03V6oak1NfX6niwB2pa3Y1AGCJq9SC0rWngwF36OHcNrqJUZCdQ%3d%3d
+  out=cabs_Microsoft-Windows-Wifi-Client-Intel-Netwlv64-FOD-Package-amd64.cab
+  checksum=sha-1=56bc9fd39b91f91e649764f97222e828c29ddaad
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/18b626b8-26c2-4c67-baef-8de2354d36e7?P1=1680768751&P2=404&P3=2&P4=Jnaj4t0I0WZxZYc%2f3UC6VresIsbioycDr%2bgPED5ckoFBCe6gNfmuEvNBE%2bOtvYJPaik8PTP2m7EJKB9RdTxIow%3d%3d
+  out=cabs_Microsoft-Windows-Wifi-Client-Intel-Netwns64-FOD-Package-amd64.cab
+  checksum=sha-1=01963694a6eb9e8117d4069a7a971df42fceb37b
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b8be9ac8-d3e4-4f8f-9e5b-0be7ebea849d?P1=1680768752&P2=404&P3=2&P4=kCTnZEvTFRlNbvh2cHxFTS%2fAI7%2bk2mmjM8CpIbPU4PEe7Q2KY8Tez0SQdoJ9UX1vnhoaxzXt7%2fZLoYyRdWG%2byQ%3d%3d
+  out=cabs_Microsoft-Windows-Wifi-Client-Broadcom-Bcmwl63a-FOD-Package-amd64.cab
+  checksum=sha-1=be806e62db0d7bf37800493c2a51884719a130a4
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/9ac8aec9-5724-41ff-89cd-84c2a398e7c2?P1=1680768752&P2=404&P3=2&P4=MSNxMvEeJOCnl8T%2btJ3mKRXnCzY03q7LfllsmY40mItVSpiek%2fD3jaKEKxVkH1tEAmuEQUDAmGSVeu9fKCtMfw%3d%3d
+  out=cabs_Microsoft-Windows-Wifi-Client-Realtek-Rtwlane01-FOD-Package-amd64.cab
+  checksum=sha-1=d023f057518c7da652b3f273fc01793900d06139
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1b2ca346-b5da-4ca5-884d-9d0a94224bdd?P1=1680768771&P2=404&P3=2&P4=mPAOEujt4OOEQfWepoWkq%2b0uxSUZfmP2zsnNiXQqx4WH%2fGtkrx%2f4V9jGRQLdqr%2fWwn4YNX8x0k%2fAbIP8r%2baETQ%3d%3d
+  out=cabs_Microsoft-Windows-LanguageFeatures-OCR-zh-cn-Package-amd64.cab
+  checksum=sha-1=e4feec803c11b33733d18c08ff75c445195cb949
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4e047402-a5a8-4cfc-bec2-2ec244337f4e?P1=1680768771&P2=404&P3=2&P4=nHFm1b9fMIevBj74REo49tTqZNftA4otGtzma0OJaKMlWlsDEuLkrtAQPTlhzWk8JIyaIg3Tj%2fZnV7oHx%2bwMAQ%3d%3d
+  out=cabs_Microsoft-Windows-Wifi-Client-Intel-Netwew00-FOD-Package-amd64.cab
+  checksum=sha-1=50914a8984b85c353d2eaf9d06497ae0101173d5
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d24eeb5b-0ecb-42c2-b623-938adb279631?P1=1680768772&P2=404&P3=2&P4=C%2b8LYwj4kZqg9YT24bEVCA6EA8EwjmO0vDiB00lcEG0OtCnbtS7%2fB7nzBkWFoWbAUvAS8%2f7dTVgfOSz9iAt1eQ%3d%3d
+  out=cabs_Microsoft-Windows-Wifi-Client-Intel-Netwew01-FOD-Package-amd64.cab
+  checksum=sha-1=f738f514080d1cda60260514501309b69718daf2
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/996d5871-45a9-4cea-86cb-27a8b05648ac?P1=1680768772&P2=404&P3=2&P4=LoXOxCVyjjxYjqNg9bHVxXsdc0c%2b%2bGiQ47edNpx%2f6rYcmxmHFY2YiYHC5WyIqeMb%2f3uf4BB183Z8XfZnTUsBIg%3d%3d
+  out=cabs_Microsoft-Windows-Wifi-Client-Intel-Netwsw00-FOD-Package-amd64.cab
+  checksum=sha-1=14d5b05668040d86ac19bf420e967f6f6ff094d9
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/63e00826-4c82-4689-86a4-5b1c1cc9cc5c?P1=1680768772&P2=404&P3=2&P4=lPU8Rx9BhW9MUyf9HwiX96X%2bHJ7EtJ7CtDC3%2fmgQce7KkldUm0bVanimxdzohQC%2fKQBARzAMnq4ddpFb1HpwjQ%3d%3d
+  out=053b2564-d160-40ee-998f-87ce912fa87b.AggregatedMetadata.cab
+  checksum=sha-1=4edac477168f681a972ab2d88eb18413b392c303
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/cddbb9f9-bdfb-4909-822e-802cd2ee6407?P1=1680768772&P2=404&P3=2&P4=FeIoOdlyERaGjPpH10UKdZisKLNAa%2fJYcE5jAHllR%2bCrCT65MOVAYd7F8hy11bRV5CIlkXr5hsWiyyeTd7tFfg%3d%3d
+  out=cabs_Microsoft-Windows-Wifi-Client-Intel-Netwtw04-FOD-Package-amd64.cab
+  checksum=sha-1=0e731398fd344e55cbb68ac6e315c1ae1bd24aab
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2459fdb6-7133-499e-a39f-707eb6cabf1b?P1=1680768771&P2=404&P3=2&P4=BeDvhNOnwcBBWGoacuKwbh3GbLDQxKzCIuBdz1CSa4d7uuUCAa57s%2bRlJy20iT8BZWtn67djLPJ3%2f0UN4wz8VA%3d%3d
+  out=cabs_Microsoft-Windows-Wifi-Client-Realtek-Rtwlane-FOD-Package-amd64.cab
+  checksum=sha-1=43458cc1dd3bd8fbbfb83ed40b3dfe55763d8cda
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d4fb5de4-a36d-4f37-b0fe-6031fcfaeada?P1=1680768772&P2=404&P3=2&P4=N433hqjM3MKT7zZZZkC50fnnoW6%2bvfdazfqyuY8q53AM9cf2KVltH1ycanR6HwCrUMyli5Y37vdRVZE7rR%2f0WQ%3d%3d
+  out=cabs_Microsoft-Windows-Wifi-Client-Intel-Netwtw06-FOD-Package-amd64.cab
+  checksum=sha-1=66c80b959dbb25edf8b17249badc3a9d7852c936
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/3ec1bcd5-136a-4645-8e13-71f1d942155e?P1=1680768771&P2=404&P3=2&P4=gD54fMgHKkWVGGN3sI210%2bhMIeBsPjvLoVg2tjJ6Aj6zLomnUDrl3OXwzLY83tKpJoVg30r%2bwcuyKdsFKBJRHg%3d%3d
+  out=cabs_Microsoft-Windows-Wifi-Client-Intel-Netwtw08-FOD-Package-amd64.cab
+  checksum=sha-1=32efb3db9d6d04da7f5585bef7c7bec93a148148
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1b72d213-d23f-4115-b74f-9503c5e27b44?P1=1680768791&P2=404&P3=2&P4=Md32uq9%2bc9XShn1tlZXphGkT2HsIkaa1EryEx9JglERextDtNljlbNCQOUnfGMm5JtW6qTJC8ByGgYzERdBMmQ%3d%3d
+  out=cabs_Microsoft-Windows-Wifi-Client-Intel-Netwtw02-FOD-Package-amd64.cab
+  checksum=sha-1=afae8fadd3b558624b641a7ccb00602eb931ae50
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/ddba135b-ba3c-4fd0-a9b3-690568c98024?P1=1680768792&P2=404&P3=2&P4=CPj9vDCCox%2f3xSLEmAVmeKRrRIBWsBS5EKdz0kXx9m7cCULOogVnjeGh8S3WdGb378mVuirJAyBrpzVmnLOeEQ%3d%3d
+  out=cabs_Microsoft-OneCore-ApplicationModel-Sync-Desktop-FOD-Package-amd64.cab
+  checksum=sha-1=77fa8314a70352bc3febbc8bd1ef22a6ab5c734b
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/92cf45cc-b7c2-47c1-b636-55930da49dd8?P1=1680768792&P2=404&P3=2&P4=aXIeDSXVve9Sa1W2xzmNQWQdN4msE2xSLnXN4JGUjcJ6I7YkjVVYBRVfc6RjXY8hUKlqiz3%2fD37PJI1OMa8zoQ%3d%3d
+  out=cabs_Microsoft-Windows-Wifi-Client-Intel-Netwtw10-FOD-Package-amd64.cab
+  checksum=sha-1=b713d67ed33156800c384deba582b10c87f99b50
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2144928b-82c0-4141-8e3f-9df4dc1f9df4?P1=1680768811&P2=404&P3=2&P4=hawRuNduviKGiNa1CYod2qGZPJi5lQ2mempO4ABG74GxYS3fK2qmzlM1l%2bNqxSjzLdBWzjBB6vg1ukc8J5bUVQ%3d%3d
+  out=cabs_Microsoft-Windows-MediaPlayer-Package-wow64.cab
+  checksum=sha-1=5b4da2653e1282f11ace6ef1dbfed1d16903e712
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/ea145ef3-0d58-464d-8e9a-d1c43ddd95db?P1=1680768812&P2=404&P3=2&P4=Rpa94dmXz3EZXA0BcgXBk8X%2bc35POgv0cuX0W1psVbPBLwKlr5%2fQ7%2bXK9dajvHSiwt7qNrSfUvF%2bnFfgjpjWhg%3d%3d
+  out=cabs_Microsoft-Windows-Kernel-LA57-FoD-Package-amd64.cab
+  checksum=sha-1=b8e8830d7990c98e6358de3691096e0355cd3da8
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/3a262540-4466-475d-a759-9dffb9bef0b3?P1=1680768831&P2=404&P3=2&P4=jbt51YUW8Mrj8ohISnKwfDG9e9HSAY2RXuxoK%2ffR%2fPF4gPiIZrOX%2fLpMiBZlTY%2bMOXoTYJkovDtZXNQryYrHfg%3d%3d
+  out=_desktopdeployment.cab
+  checksum=sha-1=2791beab2a1677462afb22e8558ce386da569d4c
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/e40ca996-1991-4db5-bb96-eda6cd4d34b5?P1=1680768832&P2=404&P3=2&P4=PeIrftxV7mac2ACsKc%2fdFqXS0tiklqOy345Tq5fZrm1GOrwi19vZAW5VWiLAzXQ%2b2%2flm5scieZxH1cgghWXOfw%3d%3d
+  out=cabs_Microsoft-Windows-TabletPCMath-Package-amd64.cab
+  checksum=sha-1=27e85ad76f824e608bab8ac1192a0cefa407e862
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/16a3b1b4-88ee-464b-abbf-5e77ca973024?P1=1680768871&P2=404&P3=2&P4=KEkB12FZJvDYdpWqUbv38XXfMQaBbeFWC5r0zIPU8BFypFMSQd1qhj%2fWIWI9e9lXVOKsOQKQ64kaMNbWEynxAA%3d%3d
+  out=Microsoft-Windows-EditionPack-Professional-WOW64-Package.ESD
+  checksum=sha-1=56e0ccf6abc82c44325d06d79a1aa694599eb454
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6a706c75-037d-4c34-b497-da424d1e2568?P1=1680768872&P2=404&P3=2&P4=eVTcnwBRtv1myzJa6uT%2bgt2M0zB2%2bcdNAw7elGCc4s0xy4trVzPMgttq72CXX1lG%2biny4IVJ1QuHGelDHJQdLg%3d%3d
+  out=Microsoft-Windows-Required-ShellExperiences-Desktop-Package.ESD
+  checksum=sha-1=640e8dda9292f65f414086521b56c8c6efa32b74
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/28a5a823-2eb0-48b5-a604-3aab11d8129f?P1=1680768911&P2=404&P3=2&P4=NbpeGpgLVzq%2bwDn0nh9oEsWT1EYy4tlMmlraoaSPu40GwSebZJ%2f5Iiv2eFq1QSb1kRb23mjWmqgcRf9Nri7Y%2bA%3d%3d
+  out=cabs_Microsoft-Windows-MediaPlayer-Package-amd64.cab
+  checksum=sha-1=cee0370655dbe6ec722b2280937246cb8c0d9a8a
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/42c531c3-4ec7-460c-9db3-8f432ffd8d7a?P1=1680769111&P2=404&P3=2&P4=h1hPyWyhX7nCsoWsOzGlSAeJnwje%2fsQTgihS3q9DNgaiAcREJtgQD4gb7tEOqPAySkcCZtLWWAnZFUxa4EzR0A%3d%3d
+  out=Microsoft-Windows-RegulatedPackages-WOW64-Package.ESD
+  checksum=sha-1=b1925809cb87aeed37c537aec784f870efa2acfd
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/06191fa3-e522-4e10-b251-6715e35d9847?P1=1680769191&P2=404&P3=2&P4=gMeN3dmhtU7CbAPUiW5fbVuK93LIrMQ%2fHqp525GxtFXwJ18P1fG4LpPeNiKHwICvuYkN4RFAd0XhmsEnaqlWOA%3d%3d
+  out=Microsoft-Windows-Client-LanguagePack-Package_zh-cn-amd64-zh-cn.esd
+  checksum=sha-1=c1f25a491a996d1d8b12c48dbca1f4256922377c
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a2fb8cb4-f9f8-44e5-8e6d-9f1c3e5d79a2?P1=1680769312&P2=404&P3=2&P4=CVLg4p0sM%2bqb3MAdmxtS%2bRh8ddR82tpGF19x7fFTzfLxxrfkLblRpSSswrwLyRwFu46tPc11WurxN3ymCk23cQ%3d%3d
+  out=Microsoft-Windows-RegulatedPackages-Package.ESD
+  checksum=sha-1=1c4bd78a5e4b5a5e698074cf9581b94a7cc00a4f
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/36b5fc46-8b07-44ae-abd2-a096e2de6f82?P1=1680769491&P2=404&P3=2&P4=k1Cf%2f5GVRg43n5yPh74xYygSI8W6sYLNCFpzzWtXb7ctS%2fkSfq22Eer22rDMqMuYR9mZ5OScP98w2%2b773uacpw%3d%3d
+  out=Runlevel-Win4-WOW64-Package.ESD
+  checksum=sha-1=1f03f9d5cbee590ec76f6adac71d6dad3e339c2f
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4375fc79-8c6d-4cd6-a1b7-b2a4054f7285?P1=1680769511&P2=404&P3=2&P4=YR%2fYuGFfHMxvcjgyC2eq2GH2U9H71BnRVmgXV6sm7%2bBWCg8K1c%2f6jBCj90zO%2fi5jR2ZYexYqow597jwrejucpw%3d%3d
+  out=cabs_Microsoft-Windows-LanguageFeatures-Speech-zh-cn-Package-amd64.cab
+  checksum=sha-1=008a038e4f06b01ae32de965363032958595f914
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b3d59a3f-aa74-4c44-ad1c-a7d7e6aa205f?P1=1680769652&P2=404&P3=2&P4=Z%2fS0kDD6CkGdZSr0vUwAZbx3ZLHZGuIYWk1Dw5pExnoFzs6d9lX%2brcfP9RuWe1n8C3MfL6o8aqsFs75ZaXSaCQ%3d%3d
+  out=cabs_Microsoft-Windows-LanguageFeatures-Handwriting-zh-cn-Package-amd64.cab
+  checksum=sha-1=f3ff171ca419ffbfb6a5b0d44152843ee38109fd
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/775ad838-fac6-47d0-aaa9-339f390c8bfa?P1=1680769792&P2=404&P3=2&P4=BjtgbwK%2bW%2fxiTGXqK7sra0MkMIqOJ7pK%2bpfxLY8OzSCDrkDRrhkuDmtMVA9DbT6p8Nz63zGdpNuYt67m8kwT9A%3d%3d
+  out=Microsoft-Windows-Not-Supported-On-LTSB-Package.ESD
+  checksum=sha-1=04f055775d0ee1bed083f3f0f69909682faf4400
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/ac11f2ec-b87c-46fc-8bc2-a2ae77c9ebbb?P1=1680769812&P2=404&P3=2&P4=FUWLjRRBcx3u6dDK2WRTIUNp2TeFDYd4SJ3YCTRrZ9ZE9BQZJGIS%2bjpRBHTjvqSQJjhNFYejYY1OdppSU%2bH4PA%3d%3d
+  out=cabs_Microsoft-Windows-LanguageFeatures-Basic-zh-cn-Package-amd64.cab
+  checksum=sha-1=52e4319a157fba4f031d03952067950a92b1d95d
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a2d496ff-a231-4dd8-a412-35e851e2b639?P1=1680769805&P2=404&P3=2&P4=dkyPr6HGoDudBlvc2CM9%2f0mD8xv3Akp5BzibwIaLi4oJW9Vvhpe3g8qtjpw9pDfKme2cmefLxWKStGFuD0us3w%3d%3d
+  out=Windows11.0-KB5025188-x64-NDP481.cab
+  checksum=sha-1=616dfcd36dec9a734049eb9cbfc66ba3f5e75e87
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d003a94f-cc0b-4c65-adc4-dc4914956e0b?P1=1680769852&P2=404&P3=2&P4=R1qDVnuBm1%2fy%2buNToIpTz1VPQEzpi1z1ves83IwZjiJs4kIC2vmX5xSKEp2y58Zz%2bjva1nIsyGz0zECDz7V92g%3d%3d
+  out=cabs_Microsoft-Windows-LanguageFeatures-TextToSpeech-zh-cn-Package-amd64.cab
+  checksum=sha-1=76e5ddb6e7406df513c59a362b6b6232a69e7086
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/69ea679f-de1a-4b82-9a18-a92032b67af6?P1=1680769872&P2=404&P3=2&P4=BvDt2J%2b35YXxFkykF%2flO%2foebKYRmWnmVvl65aWKsZXPVkWGmrvwXbWpI1qsR5fxMrPQBllIfu9AP%2bMlYcao5hA%3d%3d
+  out=Microsoft-Windows-EditionSpecific-Professional-Package.ESD
+  checksum=sha-1=59ec9027b5d1454ece9c9836352ffd9e9cd24772
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b467af38-2ea6-4f55-a87e-e19e03fca751?P1=1680770092&P2=404&P3=2&P4=IR6B7ZW6sA8S2zFXekta7RjjnIbD3NJuokS5PfFoYFmIEyfKozPg5zdR%2faT5XGeDSp6PcJR0qRXfwfNf53MT3Q%3d%3d
+  out=cabs_Microsoft-Windows-Hello-Face-Package-amd64.cab
+  checksum=sha-1=6f164fc1935a02a7e4425da1a88dee82d8fa5dfe
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6c7eff70-e792-47fa-858e-4ece176371aa?P1=1680770372&P2=404&P3=2&P4=lCJe%2b30OEtws9dnwZyoQwQJ%2bcldxs2O40wv8tAVTJyS0TmYSKr4prXlZkaDQPd13idCSNjHVW%2f%2bJXViLNx7yyQ%3d%3d
+  out=Microsoft-Windows-Client-Features-WOW64-Package.ESD
+  checksum=sha-1=e25eaa7b50e55bd7f92a541b6f138d9e75dee760
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/8f8ab967-1cea-43e4-8f5d-2393db9fb551?P1=1680771732&P2=404&P3=2&P4=kWb8wVbZ6cNM%2biZv8YIZGyikzkkloGVcjfuYXxvmqpnjPdKWLIS1h3siVaomYeRxFRnMSys7e8MAFHMqpeiYHg%3d%3d
+  out=Microsoft-Windows-EditionPack-Professional-Package.ESD
+  checksum=sha-1=a037e982c189f65e9dec60c0c86da92f7a2875a3
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/41cf1c57-73be-4d47-9105-90869c151b65?P1=1680771791&P2=404&P3=2&P4=nSUp%2btb%2bQjieYiEfNEJ8FQsL%2bKAesZ6ZovO0O4fGOD%2bFjRls3k8QdiqMzgxIQ0GgOX0pC5T099wCAvwS9mRtzg%3d%3d
+  out=Runlevel-Win4-Package.ESD
+  checksum=sha-1=8dc2f58a78609fcb1e0b0aee6b1a401e4d9129bb
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4a0e0cd4-60b0-43c2-b6a8-62a3604d90af?P1=1680772611&P2=404&P3=2&P4=Z0lGTgu69WeXYCmpNmxPjuIacIs6GdBC8SvTSM1srFZCgyXqEFEeXins5Rc3boKKgICigL%2b9hm%2bR6gCAl0NWEA%3d%3d
+  out=Microsoft-Windows-Client-Desktop-Required-WOW64-Package.ESD
+  checksum=sha-1=db6c766d8a0aec806faa941c354e89f264f377f0
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/0344569f-0f8a-44be-b6f4-68e45daf8e90?P1=1680774071&P2=404&P3=2&P4=JD1t4qx%2f4rQXjsQkVCwpmdhHOj5tNoZ5vLwN%2bdhDTAO8HcAH26qaIdNG%2bajkZHywW1Ao2EplgK%2f0rcLhPmKzVw%3d%3d
+  out=Microsoft-Windows-Client-Features-Package.ESD
+  checksum=sha-1=5b88a5026064f9a8e7c1c44a7269c56a0fedc00d
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/dfe8d110-709e-4576-a022-2b25f2d7eef4?P1=1680783872&P2=404&P3=2&P4=faA7QSMyMgMCJNpz7I2q19Erac5l%2fmC2K7eipWkRj%2bsiXzAXE25g%2bVBAHRbDo3pQ0XU8DfVu84NLXTTTo6Qq%2bg%3d%3d
+  out=Microsoft-Windows-Client-Desktop-Required-Package.ESD
+  checksum=sha-1=0b0e0c98ed9d0257652d064aa8fe7eabe6d31076
+
+http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/19aa9a38-6ade-434f-870f-cc893aeb980e?P1=1680785371&P2=404&P3=2&P4=Efh9w9gZnuLpUb2P3K7CunGpv9i3ZHFyDWB7rGoB1%2b6a3zLtrCgKvXAqDpJJLLWAJi4daZrEx0TmjM3eU4UYyA%3d%3d
+  out=MetadataESD_professional_zh-cn.esd
+  checksum=sha-1=77c4b27bc74ef4a6b734cdcf7af359d7e5bb62bb
+
