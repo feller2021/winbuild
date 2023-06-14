@@ -6,8 +6,8 @@ import requests
 from requests_toolbelt import MultipartEncoder
 datanames = os.getcwd()
 datanames2 = os.listdir(datanames)
-SCKEY = os.environ["SCKEY"]
-SCKEY2 = os.environ["SCKEY2"]
+SCKEY = os.environ["SCKEY"]  # 用户名
+SCKEY2 = os.environ["SCKEY2"] # 秘钥会话
 URLKEY = os.environ["URLKEY"]
  
  
