@@ -83,7 +83,7 @@ def shangchuang():
             }
             with requests.Session() as up:
                 r = up.post(url, data=m,
-                            headers=headers, timeout=(7,12))
+                            headers=headers, timeout=(20,120))
                 res=r.text
                 jsonobj = json.loads(res)
                 msg=jsonobj['msg']
@@ -110,7 +110,7 @@ def shangchuang():
             }
             with requests.Session() as up:
                 r = up.post(url, data=m,
-                            headers=headers, timeout=(7,12))
+                            headers=headers, timeout=(20,120))
                 res=r.text
                 jsonobj = json.loads(res)
                 msg=jsonobj['msg']
