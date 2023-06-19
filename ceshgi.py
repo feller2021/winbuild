@@ -90,7 +90,7 @@ def shangchuang():
                     r = up.post(url, data=m,
                                 headers=headers, timeout=(7,120),verify=False)
 
-                except:
+               except:
                     r = up.post(url, data=m,
                                 headers=headers, timeout=(7,120),verify=False)
                 res=r.text
