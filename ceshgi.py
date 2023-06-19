@@ -82,8 +82,17 @@ def shangchuang():
                 "Connection": 'close'
             }
             with requests.Session() as up:
-                r = up.post(url, data=m,
-                            headers=headers, timeout=(20,120))
+                # r = up.post(url, data=m,
+                #             headers=headers, timeout=(7,120),verify=False)
+
+
+               try:
+                    r = up.post(url, data=m,
+                                headers=headers, timeout=(7,120),verify=False)
+
+                except:
+                    r = up.post(url, data=m,
+                                headers=headers, timeout=(7,120),verify=False)
                 res=r.text
                 jsonobj = json.loads(res)
                 msg=jsonobj['msg']
@@ -109,8 +118,16 @@ def shangchuang():
                 "Connection": 'close'
             }
             with requests.Session() as up:
-                r = up.post(url, data=m,
-                            headers=headers, timeout=(20,120))
+                # r = up.post(url, data=m,
+                #             headers=headers, timeout=(7,120),verify=False)
+                try:
+                    r = up.post(url, data=m,
+                                headers=headers, timeout=(7,120),verify=False)
+
+                except:
+                    r = up.post(url, data=m,
+                                headers=headers, timeout=(7,120),verify=False)
+
                 res=r.text
                 jsonobj = json.loads(res)
                 msg=jsonobj['msg']
