@@ -89,7 +89,6 @@ def shangchuang():
                try:
                     r = up.post(url, data=m,
                                 headers=headers, timeout=(7,120),verify=False)
-
                except:
                     r = up.post(url, data=m,
                                 headers=headers, timeout=(7,120),verify=False)
@@ -123,11 +122,9 @@ def shangchuang():
                 try:
                     r = up.post(url, data=m,
                                 headers=headers, timeout=(7,120),verify=False)
-
                 except:
                     r = up.post(url, data=m,
                                 headers=headers, timeout=(7,120),verify=False)
-
                 res=r.text
                 jsonobj = json.loads(res)
                 msg=jsonobj['msg']
