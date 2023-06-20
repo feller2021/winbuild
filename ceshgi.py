@@ -81,11 +81,13 @@ def shangchuang():
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63",
                 "Connection": 'close'
             }
+            
             with requests.Session() as up:
                 r = up.post(url, data=m,
                             headers=headers, timeout=(7,120),verify=False)
 
                 res=r.text
+                time.sleep(10)
                 jsonobj = json.loads(res)
                 msg=jsonobj['msg']
                 print(msg)
@@ -114,6 +116,7 @@ def shangchuang():
                             headers=headers, timeout=(7,120),verify=False)
                 
                 res=r.text
+                time.sleep(10)
                 jsonobj = json.loads(res)
                 msg=jsonobj['msg']
                 print(msg)
