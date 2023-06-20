@@ -81,11 +81,19 @@ def shangchuang():
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63",
                 "Connection": 'close'
             }
-            
+ 
             with requests.Session() as up:
-                r = up.post(url, data=m,
-                            headers=headers, timeout=(7,120),verify=False)
-
+                try:
+                    time.sleep(10)
+                    r = up.post(url, data=m,headers=headers, timeout=(7,120),verify=False)
+                except:
+                    print("异常1")
+                    time.sleep(10)
+                    r = up.post(url, data=m,headers=headers, timeout=(7,120),verify=False)
+                finally:
+                    print("异常2")
+                    time.sleep(10)
+                    r = up.post(url, data=m,headers=headers, timeout=(7,120),verify=False)
                 res=r.text
                 time.sleep(10)
                 jsonobj = json.loads(res)
@@ -112,9 +120,17 @@ def shangchuang():
                 "Connection": 'close'
             }
             with requests.Session() as up:
-                r = up.post(url, data=m,
-                            headers=headers, timeout=(7,120),verify=False)
-                
+                try:
+                    time.sleep(10)
+                    r = up.post(url, data=m,headers=headers, timeout=(7,120),verify=False)
+                except:
+                    print("异常3")
+                    time.sleep(10)
+                    r = up.post(url, data=m,headers=headers, timeout=(7,120),verify=False)
+                finally:
+                    print("异常4")
+                    time.sleep(10)
+                    r = up.post(url, data=m,headers=headers, timeout=(7,120),verify=False)
                 res=r.text
                 time.sleep(10)
                 jsonobj = json.loads(res)
@@ -122,35 +138,10 @@ def shangchuang():
                 print(msg)
                 toCntPercent = jsonobj['objectId']
                 id=toCntPercent
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
         with open('id.txt', 'a') as f:
             f.write('\n')
             f.write(toCntPercent)
             print(toCntPercent)
- 
- 
- 
 if __name__ == '__main__':
     if not os.listdir(pt):
         print("为空!我切片！")
