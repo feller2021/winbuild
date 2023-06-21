@@ -2,3 +2,4 @@ requests
 matplotlib
 requests_toolbelt
 filesplit
+retry
