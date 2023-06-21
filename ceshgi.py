@@ -4,6 +4,7 @@ import os
 import time
 import requests
 from requests_toolbelt import MultipartEncoder
+from retry import retry
 datanames = os.getcwd()
 datanames2 = os.listdir(datanames)
 SCKEY = os.environ["SCKEY"]  # 用户名
@@ -45,7 +46,7 @@ def qiepian():
             print("没找到iso文件")
  
  
- 
+@retry()
 def shangchuang():
  
  
@@ -94,6 +95,7 @@ def shangchuang():
                     print("异常2")
                     time.sleep(10)
                     r = up.post(url, data=m,headers=headers, timeout=(7,120),verify=False)
+                continue
                 res=r.text
                 time.sleep(10)
                 jsonobj = json.loads(res)
@@ -131,6 +133,7 @@ def shangchuang():
                     print("异常4")
                     time.sleep(10)
                     r = up.post(url, data=m,headers=headers, timeout=(7,120),verify=False)
+                continue
                 res=r.text
                 time.sleep(10)
                 jsonobj = json.loads(res)
